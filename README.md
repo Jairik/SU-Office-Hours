@@ -11,6 +11,6 @@ Interactive dashboard for SU Computer Science students to see all Lab Assistant 
 
 The ultimate goal with this project will be to make everything very maintainable and expandable for future maintainers.
 
-Therefore, to troll, I will be subjecting myself to use Java and Sprintboot for the backend to expose endpoints and interact with the database.
+Therefore, I will be overengineering the backend using Rust, Axum, and Neon PostgreSQL DB for the backend.
 
 To make everything look pretty, lovely React will be used for the frontend. I plan to procrastinate learning any other frontend framework.
