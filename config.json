@@ -1,0 +1,18 @@
+{
+    "timezone": "EST",
+    "offices": {
+        "default": "TETC111",
+        "default2": "TETC112",
+        "virtual": "Zoom",
+        "Franchi": "TETC201D",
+        "Jing": "TETC202",
+        "Lu": "TETC201E",
+        "Park": "TETC205",
+        "Thompson": "TETC208",
+        "Tu": "TETC203",
+        "Peter Wang": "TETC204",
+        "Sophie Wang": "TETC201C",
+        "You": "201F"
+    },
+    "TODO": "REMOVE THIS - PROBABLY WONT USE"
+}
